@@ -56,4 +56,4 @@ Criei um grupo de estudos no WhatsApp para pessoas que estão estudando desenvol
 - Discussões sobre desenvolvimento web.
 - Tirar dúvidas e colaborar com outros membros.
   
-**Agradeço por visitar nosso repositório!**
+**Agradeço por visitar meu repositório!**
